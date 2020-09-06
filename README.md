@@ -19,8 +19,8 @@ const nancy = {
 }
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitle-nancy&layout=compact&hide=html" alt="zitle-nancy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zitle-nancy&show_icons=true" alt="zitle-nancy" /></p>
+<p><img align="left" max-width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitle-nancy&layout=compact&hide=html" alt="zitle-nancy" /></p>
+<p>&nbsp;<img align="center" max-width="85%" src="https://github-readme-stats.vercel.app/api?username=zitle-nancy&show_icons=true" alt="zitle-nancy" /></p>
 
 <p align="center">
 <a href="https://dev.to/nancy zitle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nancy zitle" height="30" width="30" /></a>
