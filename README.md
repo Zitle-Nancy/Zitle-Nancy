@@ -20,7 +20,6 @@ const nancy = {
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitle-nancy&layout=compact&hide=html" alt="zitle-nancy" /></p>
-</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zitle-nancy&show_icons=true" alt="zitle-nancy" /></p>
 
 <p align="center">
