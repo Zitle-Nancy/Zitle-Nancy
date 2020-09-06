@@ -25,11 +25,11 @@ const nancy = {
 <p>&nbsp;<img style="max-width: 45% !important;" align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=zitle-nancy&show_icons=true" alt="zitle-nancy" /></p>
 
 <p align="center">
-  <a href="https://dev.to/nancy zitle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nancy zitle" height="30" width="30" /></a>
+  <a href="https://dev.to/ancizj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nancy zitle" height="30" width="30" /></a>
   <a href="https://twitter.com/ancizj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ancizj" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/nancy-zitle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nancy-zitle" height="30" width="30" /></a>
   <a href="https://codesandbox.com/zitle-nancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="zitle-nancy" height="30" width="30" /></a>
-  <a href="https://fb.com/nancy zitle juárez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nancy zitle juárez" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/nancy.zj.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nancy zitle juárez" height="30" width="30" /></a>
   <a href="https://medium.com/@ancizj393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ancizj393" height="30" width="30" /></a>
-  <a href="https://www.leetcode.com/nancy zitle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nancy zitle" height="30" width="30" /></a>
+  <a href="https://leetcode.com/ancizj393/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nancy zitle" height="30" width="30" /></a>
 </p>
