@@ -50,4 +50,3 @@ const thai = {
 <a href="https://medium.com/@ancizj393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ancizj393" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/nancy zitle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nancy zitle" height="30" width="30" /></a>
 </p>
-
