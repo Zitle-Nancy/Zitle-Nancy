@@ -8,13 +8,9 @@
 ```javascript
 const nancy = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Git, Sass],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Materila UI, Chakra, Zeplin],
-  techCommunities: {
-                        Girl Tech,
-                        Laboratoria,
-                        Epic Queen
-                      },
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Git', 'Sass'],
+  tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Material UI', 'Chakra','Zeplin'],
+  techCommunities: [ 'Girl Tech', 'Laboratoria', 'Epic Queen' ],
  challenge: "I am doing the JavaScript Algorithms and Data Structures Certification (300 hours) in freeCodeCamp"
 }
 ```
