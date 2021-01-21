@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋, I'm Nancy Zitle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-<p align="center"><em>Software Enginner at <a href="https://www.urbvan.com/">Urbvan</a>
+<p align="center"><em>Software Enginner at <a href="https://www.creditas.com/mx">Creditas</a>
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
